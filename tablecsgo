@@ -1,18 +1,29 @@
 <table style="width:100%">
   <tr>
     <th>Gun</th>
-    <th>Damage</th>
-    <th></th>
-    <th>
+    <th>Type</th>
+    <th>Cost</th>
+    <th>Damage vs no armor</th>
+    <th>Damage vs armor</th>
+    <th>Accurate range</th>
+    <th>Recoil</th>
+    <th>Firerate</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
+    <td>M4A1-S</td>
+    <td>AR</td>
+    <td>$3100</td>
+    <td>33</td>
+    <td>31</td>
+    <td>28m</td>
+    <td>73%</td>
+    <td>600rpm</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
+    <td>AK47</td>
+    <td>AR</td>
+    <td>$2700</td>
+    <td>36</td>
+    <td>32</td>
   </tr>
 </table>
