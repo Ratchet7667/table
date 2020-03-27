@@ -36,9 +36,8 @@ td, th, tr {
     <td>73%</td>
     <td>600rpm</td>
   </tr>
-  <td><img src = ></td>
     <td>AK47</td>
-    <td>
+    <td><img src = weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png></td>
     <td>AR</td>
     <td>$2700</td>
     <td>36</td>
@@ -49,6 +48,7 @@ td, th, tr {
   </tr>
   <tr>
     <td>UMP-45</td>
+    <td><img src = CSGO_UMP-45_Inventory.png></td>
     <td>SMG</td>
     <td>$1200</td>
     <td>35</td>
@@ -59,6 +59,7 @@ td, th, tr {
    </tr>
    <tr>
     <td>Five-Seven</td>
+    <td><img src = CSGO_Five-SeveN_Inventory.png></td>
     <td>Pistol</td>
     <td>$500</td>
     <td>32</td>
@@ -69,6 +70,7 @@ td, th, tr {
    </tr>
    <tr>
     <td>Tec-9</td>
+    <td><img src = CSGO_Tec-9_Inventory.png></td>
     <td>Pistol</td>
     <td>$500</td>
     <td>33</td>
@@ -79,6 +81,7 @@ td, th, tr {
    </tr>
    <tr>
     <td>AWP</td>
+    <td><img src = CSGO_AWP_Inventory.png></td>
     <td>Sniper</td>
     <td>$4750</td>
     <td>115</td>
@@ -89,6 +92,7 @@ td, th, tr {
    </tr>
    <tr>
     <td>Sawed-off</td>
+    <td><img src = CSGO_Sawed-Off_Inventory.png></td>
     <td>Shotgun</td>
     <td>$1100</td>
     <td>32/256</td>
