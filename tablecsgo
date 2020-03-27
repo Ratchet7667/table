@@ -6,7 +6,7 @@
     <th>Damage vs no armor</th>
     <th>Damage vs armor</th>
     <th>Accurate range</th>
-    <th>Recoil</th>
+    <th>Recoil Control</th>
     <th>Firerate</th>
   </tr>
   <tr>
@@ -25,5 +25,58 @@
     <td>$2700</td>
     <td>36</td>
     <td>32</td>
+    <td>21.74m</td>
+    <td>69%</td>
+    <td>600rpm</td>
   </tr>
+  <tr>
+    <td>UMP-45</td>
+    <td>SMG</td>
+    <td>$1200</td>
+    <td>35</td>
+    <td>28</td>
+    <td>11m</td>
+    <td>76%</td>
+    <td>666rpm</td>
+   </tr>
+   <tr>
+    <td>Five-Seven</td>
+    <td>Pistol</td>
+    <td>$500</td>
+    <td>32</td>
+    <td>30</td>
+    <td>14m</td>
+    <td>69%</td>
+    <td>400rpm</td>
+   </tr>
+   <tr>
+    <td>Tec-9</td>
+    <td>Pistol</td>
+    <td>$500</td>
+    <td>33</td>
+    <td>31</td>
+    <td>13m</td>
+    <td>65%</td>
+    <td>500rpm</td>
+   </tr>
+   <tr>
+    <td>AWP</td>
+    <td>Sniper</td>
+    <td>$4750</td>
+    <td>115</td>
+    <td>115</td>
+    <td>69m</td>
+    <td>3%</td>
+    <td>41rpm</td>
+   </tr>
+   <tr>
+    <td>Sawed-off</td>
+    <td>Shotgun</td>
+    <td>$1100</td>
+    <td>32/256</td>
+    <td>32/256</td>
+    <td>2.21m</td>
+    <td>3%</td>
+    <td>71rpm</td>
+   </tr>
 </table>
