@@ -1,13 +1,19 @@
 <html> 
   <head>
-    <style>
-    table, th, td {
-    border: 1px solid black;
-    }
-   </style>
-  </head>
-  <body>
-  
+  <style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th, tr {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+  background-color: #228B22
+}
+</style>
+</head>
   <tr>
     <th>Gun</th>
     <th>Type</th>
@@ -90,4 +96,4 @@
    </tr>
 </table>
 </body>
-</html
+</html>
