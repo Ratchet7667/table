@@ -1,5 +1,13 @@
-<html>
-<table style="width:100%">
+<html> 
+  <head>
+    <style>
+    table, th, td {
+    border: 1px solid black;
+    }
+   </style>
+  </head>
+  <body>
+  
   <tr>
     <th>Gun</th>
     <th>Type</th>
@@ -81,3 +89,5 @@
     <td>71rpm</td>
    </tr>
 </table>
+</body>
+</html
