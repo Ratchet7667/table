@@ -27,7 +27,7 @@ td, th, tr {
   </tr>
   <tr>
     <td>M4A1-S</td>
-    <td><img src = 
+    <td><img src = CSGO_M4A1-S_Inventory.png></td>
     <td>AR</td>
     <td>$3100</td>
     <td>33</td>
@@ -36,8 +36,9 @@ td, th, tr {
     <td>73%</td>
     <td>600rpm</td>
   </tr>
-  <tr>
+  <td><img src = ></td>
     <td>AK47</td>
+    <td>
     <td>AR</td>
     <td>$2700</td>
     <td>36</td>
