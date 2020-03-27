@@ -16,6 +16,7 @@ td, th, tr {
 </head>
   <tr>
     <th>Gun</th>
+    <th>Image</th>
     <th>Type</th>
     <th>Cost</th>
     <th>Damage vs no armor</th>
@@ -26,6 +27,7 @@ td, th, tr {
   </tr>
   <tr>
     <td>M4A1-S</td>
+    <td><img src = 
     <td>AR</td>
     <td>$3100</td>
     <td>33</td>
